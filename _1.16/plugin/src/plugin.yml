@@ -1,0 +1,10 @@
+main: fr.alkanife.kte.KTE
+name: KTE
+version: 1.0
+api-version: 1.16
+author: Alkanife
+load: STARTUP
+description: Plugin for the KTE event!
+commands:
+  kte:
+    description: Game master command
